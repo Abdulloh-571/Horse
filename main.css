@@ -1,0 +1,19 @@
+.card{
+    width:250px;
+    border:2px dotted black;
+    text-align:center;
+    padding:10px;
+    margin:auto;
+}
+
+img{
+    width:230px;
+    height:150px;
+}
+
+button{
+    background:rgb(47, 0, 255);
+    color:white;
+    border:none;
+    padding:10px 20px;
+}
